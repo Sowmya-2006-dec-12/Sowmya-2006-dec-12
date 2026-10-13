@@ -1,10 +1,11 @@
-About Me 🌸
+My Bio 🌸
 
-Hi! I'm Sowmi, a B.Tech 3rd-year Computer Science and Engineering (CSE) student. I'm passionate about learning new technologies, improving my programming skills, and building my future career.
+Name: Sowmya G.
+Education: B.Tech 3rd Year – Computer Science and Engineering (CSE) 🎓
+College: Ananthalakshmi Institute of Technology and Sciences (ALTS)
+Skills: Python, C Programming, HTML, CSS 💻
+Interests: Learning new technologies, coding, and improving my skills.
+Career Goals: To build a successful future in the IT or banking sector. 🚀
 
-💻 Education: B.Tech – CSE
-📚 Currently Learning: Python programming, aptitude, and English
-🎯 Career Goal: To build a successful career in the IT or banking sector.
-🌱 My Strength: I'm willing to learn, improve, and keep trying even when something is difficult.
-
-✨ Learning every day, growing every step, and working towards my dreams.
+My Motto: ✨
+“Dream big, work hard, stay humble, and never stop learning.” 💖
